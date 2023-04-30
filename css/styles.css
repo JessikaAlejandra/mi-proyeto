@@ -181,6 +181,7 @@ section {
 
 .iconos li {
     padding: 20px;
+    width: 100%;
 }
   
 
@@ -193,5 +194,6 @@ footer {
     padding: 20px 0px ;
     height: 90px;
     text-align: center;
+    width: 100%;
 
 }
