@@ -168,19 +168,21 @@ section {
 }
 
 .iconos {
+    height: 300px;
+    width: 300px;
+
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 50px 0px;
+    margin-bottom: 68px;
+
     }
 
 .iconos li {
-    padding: 30px;
+    padding: 20px;
 }
-.iconos li a {
-    width: 50px;
-    height: 50px;
-}
+  
 
 
 /* Footer */
